@@ -1,0 +1,105 @@
+<name>name</name>
+<image>path</image>
+<recipe>
+	<base></base>
+	<optional></optional>
+</recipe>
+
+<ingredients>
+
+
+
+<ingredient>
+	<name>wodka</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+<ingredient>
+	<name>sok pomaranczowy</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+<ingredient>
+	<name>grenadine</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+<ingredient>
+	<name>tequila</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+<ingredient>
+	<name>sprite</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+<ingredient>
+	<name>bialy rum</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+<ingredient>
+	<name>cola</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+
+<ingredient>
+	<name>sok malinowy</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+<ingredient>
+	<name>likier kawowy</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+<ingredient>
+	<name>kostki lodu</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+<ingredient>
+	<name>limonka</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+<ingredient>
+	<name>mieta</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+<ingredient>
+	<name>cytryna</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+<ingredient>
+	<name>pomarancza</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+<ingredient>
+	<name>cukier brazowy</name>
+	<quantity>q</quantity>
+	<important>yes or no</important>
+</ingredient>
+
+
+
+</ingredients>

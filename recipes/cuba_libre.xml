@@ -1,0 +1,21 @@
+<name>Cuba libre</name>
+<image>path</image>
+<recipe>
+<base>Nalej rum do szklanku, dopelnij cola.</base>
+<optional>Wcisnij do szklanki sok z limonki. Dodaj kawalki limonki dla dekoracji.</optional>
+</recipe>
+<ingredient>
+	<name>bialy rum</name>
+	<quantity>60ml</quantity>
+	<important>yes</important>
+</ingredient>
+<ingredient>
+	<name>cola</name>
+	<quantity>szklanka</quantity>
+	<important>yes</important>
+</ingredient>
+<ingredient>
+	<name>limonka</name>
+	<quantity>polowa</quantity>
+	<important>no</important>
+</ingredient>

@@ -1,0 +1,20 @@
+<name>Wsciekly pies</name>
+<image>path</image>
+<recipe>
+<base>Nalej wodke do kieliszka. Odczekaj 10 sekund, dolej sok malinowy, nastepnie sos tabasco.</base>
+</recipe>
+<ingredient>
+	<name>wodka</name>
+	<quantity>30ml</quantity>
+	<important>yes</important>
+</ingredient>
+<ingredient>
+	<name>sok malinowy</name>
+	<quantity>20ml</quantity>
+	<important>yes</important>
+</ingredient>
+<ingredient>
+	<name>tabasco</name>
+	<quantity>3-5 kropli</quantity>
+	<important>yes</important>
+</ingredient>

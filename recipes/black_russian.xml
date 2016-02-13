@@ -1,0 +1,20 @@
+<name>Black Russian</name>
+<image>path</image>
+<recipe>
+<base>Zalej kostki lodu wodka i dodaj likier kawowy, wymieszaj.</base>
+</recipe>
+<ingredient>
+	<name>wodka</name>
+	<quantity>100ml</quantity>
+	<important>yes</important>
+</ingredient>
+<ingredient>
+	<name>likier kawowy</name>
+	<quantity>50ml</quantity>
+	<important>yes</important>
+</ingredient>
+<ingredient>
+	<name>lod</name>
+	<quantity></quantity>
+	<important>no</important>
+</ingredient>

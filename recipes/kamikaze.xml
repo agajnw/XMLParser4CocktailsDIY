@@ -1,0 +1,20 @@
+<name>Kamikaze</name>
+<image>path</image>
+<recipe>
+<base>Wymieszaj wodke i likier, dodaj sok z cytryny.</base>
+</recipe>
+<ingredient>
+	<name>wodka</name>
+	<quantity>20ml</quantity>
+	<important>yes</important>
+</ingredient>
+<ingredient>
+	<name>Blue Curacao</name>
+	<quantity>40ml</quantity>
+	<important>yes</important>
+</ingredient>
+<ingredient>
+	<name>cytryna</name>
+	<quantity>1 szt.</quantity>
+	<important>no</important>
+</ingredient>
