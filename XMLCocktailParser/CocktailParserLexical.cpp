@@ -7,11 +7,13 @@
 
 #include "CocktailParserLexical.h"
 
-CocktailParserLexical::CocktailParserLexical() {
-	// TODO Auto-generated constructor stub
+CocktailParserLexical::CocktailParserLexical()
+{
+    // TODO Auto-generated constructor stub
 
 }
 
-CocktailParserLexical::~CocktailParserLexical() {
-	// TODO Auto-generated destructor stub
+CocktailParserLexical::~CocktailParserLexical()
+{
+    // TODO Auto-generated destructor stub
 }

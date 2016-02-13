@@ -8,10 +8,11 @@
 #ifndef COCTAILPARSERSYNTAXIAL_H_
 #define COCTAILPARSERSYNTAXIAL_H_
 
-class CoctailParserSyntaxial {
+class CoctailParserSyntaxial
+{
 public:
-	CoctailParserSyntaxial();
-	virtual ~CoctailParserSyntaxial();
+    CoctailParserSyntaxial();
+    virtual ~CoctailParserSyntaxial();
 };
 
 #endif /* COCTAILPARSERSYNTAXIAL_H_ */

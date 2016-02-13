@@ -7,11 +7,13 @@
 
 #include "CocktailParserSyntaxial.h"
 
-CoctailParserSyntaxial::CoctailParserSyntaxial() {
-	// TODO Auto-generated constructor stub
+CoctailParserSyntaxial::CoctailParserSyntaxial()
+{
+    // TODO Auto-generated constructor stub
 
 }
 
-CoctailParserSyntaxial::~CoctailParserSyntaxial() {
-	// TODO Auto-generated destructor stub
+CoctailParserSyntaxial::~CoctailParserSyntaxial()
+{
+    // TODO Auto-generated destructor stub
 }

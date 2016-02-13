@@ -8,10 +8,11 @@
 #ifndef COCKTAILPARSERLEXICAL_H_
 #define COCKTAILPARSERLEXICAL_H_
 
-class CocktailParserLexical {
+class CocktailParserLexical
+{
 public:
-	CocktailParserLexical();
-	virtual ~CocktailParserLexical();
+    CocktailParserLexical();
+    virtual ~CocktailParserLexical();
 };
 
 #endif /* COCKTAILPARSERLEXICAL_H_ */

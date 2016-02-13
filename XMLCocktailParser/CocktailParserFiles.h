@@ -11,18 +11,19 @@
 #include <iostream>
 #include <fstream>
 
-class CocktailParserFiles {
+class CocktailParserFiles
+{
 public:
-	CocktailParserFiles();
-	virtual ~CocktailParserFiles();
+    CocktailParserFiles();
+    virtual ~CocktailParserFiles();
 
-	char getNextChar();
-	bool openFile(std::string);
-	bool closeFile();
-	bool saveToFile(std::string);
+    char getNextChar();
+    bool openFile(std::string);
+    bool closeFile();
+    bool saveToFile(std::string);
 
 private:
-	std::ofstream file;
+    std::ofstream file;
 
 };
 

@@ -7,11 +7,13 @@
 
 #include "CocktailParserFiles.h"
 
-CocktailParserFiles::CocktailParserFiles() {
-	// TODO Auto-generated constructor stub
+CocktailParserFiles::CocktailParserFiles()
+{
+    // TODO Auto-generated constructor stub
 
 }
 
-CocktailParserFiles::~CocktailParserFiles() {
-	// TODO Auto-generated destructor stub
+CocktailParserFiles::~CocktailParserFiles()
+{
+    // TODO Auto-generated destructor stub
 }
