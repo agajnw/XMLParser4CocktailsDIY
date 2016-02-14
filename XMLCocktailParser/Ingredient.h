@@ -1,10 +1,3 @@
-/*
- * Ingredient.h
- *
- *  Created on: 05-05-2014
- *      Author: agnieszka
- */
-
 #ifndef INGREDIENT_H_
 #define INGREDIENT_H_
 

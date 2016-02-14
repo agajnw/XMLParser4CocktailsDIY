@@ -1,14 +1,5 @@
-/*
- * Cocktail.cpp
- *
- *  Created on: 05-05-2014
- *      Author: agnieszka
- */
-
 #include <string>
 #include "Cocktail.h"
-
-
 using namespace std;
 
 Cocktail::Cocktail()
@@ -86,3 +77,4 @@ void Cocktail::addIngredient(Ingredient* ingredient)
 {
     ingredientList.push_back(ingredient);
 }
+

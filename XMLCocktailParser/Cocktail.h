@@ -1,10 +1,3 @@
-/*
- * Cocktail.h
- *
- *  Created on: 05-05-2014
- *      Author: agnieszka
- */
-
 #ifndef COCKTAIL_H_
 #define COCKTAIL_H_
 

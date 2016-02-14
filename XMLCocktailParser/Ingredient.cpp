@@ -1,10 +1,3 @@
-/*
- * Ingredient.cpp
- *
- *  Created on: 05-05-2014
- *      Author: agnieszka
- */
-
 #include "Ingredient.h"
 
 using namespace std;

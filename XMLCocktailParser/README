@@ -1,0 +1,14 @@
+XML parser library for Cocktails DIY application.
+Library uses Flex/Bison for parsing files.
+
+Dependencies:
+Bison >= 3.0.2
+Flex >= 2.5.35
+
+Build:
+make
+
+Run test:
+./TestProgram.out fileToParse
+or, if you want to save recipe to a new file:
+./TestProgram.out fileToParse fileToSave

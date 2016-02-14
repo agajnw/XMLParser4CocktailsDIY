@@ -1,0 +1,29 @@
+<?metadata?>
+<cocktail>
+<name>Srubokret</name>
+<image>path</image>
+<nieprawidlowy>znacznik</znacznik>
+<recipe>
+<base>Wymieszaj wodke i sok. Mozesz dodac plasterek pomaranczy.</base>
+<optional>Udekoruj szklanke plasterkiem pomaranczy.</optional>
+</recipe>
+<ingredients>
+<ingredient>
+	<name>wodka</name>
+	<quantity>60ml</quantity>
+	<important>yes</important>
+</ingredient>
+<ingredient>
+<nieprawidlowy>znacznik</nieprawidlowy>
+<name>sok pomaranczowy</name>
+<quantity>150ml</quantity>
+<important>yes</important>
+</ingredient>
+<ingredient>
+<name>pomarancza</name>
+<quantity>plasterek</quantity>
+<important>no</important>
+</ingredient>
+</ingredients>
+</cocktail>
+<zly>znacznik</zly>
